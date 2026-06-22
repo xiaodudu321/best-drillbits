@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://best-drillbits.com/sitemap.xml
+Sitemap: https://xiaodudu321.github.io/best-drillbits/sitemap.xml
